@@ -1,0 +1,15 @@
+streamlit
+tensorflow==2.13.0
+keras==2.13.1
+opencv-python
+matplotlib
+pandas
+joblib
+scikit-learn
+DeepFace==0.0.93
+deepface 
+scipy
+numpy
+streamlit-webrtc
+Pillow
+av
