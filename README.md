@@ -1,7 +1,7 @@
 # Facial Recognition and Analysis System
 
 ## Overview
-This project is an AI-powered facial recognition and analysis system designed for real-time identification and demographic analysis. It leverages deep learning techniques to accurately recognize faces, detect emotions, and estimate age and gender, making it suitable for various applications like surveillance, access control, and user profiling.
+This project is an AI-powered facial recognition and analysis system built using the **DeepFace** library. It enables real-time facial recognition, emotion detection, and age/gender estimation with high accuracy. The system is ideal for use in security, smart authentication, attendance tracking, and user profiling.
 
 ---
 
@@ -13,20 +13,20 @@ This project is an AI-powered facial recognition and analysis system designed fo
 ## Features
 
 - **Facial Recognition**  
-  Accurately identifies individuals using deep learning models.
+  Identifies and verifies individuals using the DeepFace library and deep learning models.
 
 - **Emotion Detection**  
-  Recognizes emotional states based on facial expressions.
+  Detects emotions (e.g., happy, sad, angry) from facial expressions using DeepFace.
 
 - **Age & Gender Estimation**  
-  Provides demographic insights for each detected face.
+  Extracts demographic information (age and gender) from facial features.
 
 - **Real-Time Processing**  
-  Fast, efficient system capable of handling live video input.
+  Processes video input in real-time for immediate recognition and analysis.
 
-- **User Interface**  
-  Interactive web-based UI built with Streamlit.
-  
+- **Interactive Web Interface**  
+  Developed using Streamlit for ease of use and visualization.
+
 ---
 
 ## Dataset
@@ -39,5 +39,3 @@ This project is an AI-powered facial recognition and analysis system designed fo
 
 - **Model Accuracy:** 93.30%
 - **Total Recognized Individuals:** 159
-
-
