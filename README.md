@@ -5,6 +5,11 @@ This project is an AI-powered facial recognition and analysis system designed fo
 
 ---
 
+- **Link app on HuggingFace** :
+  https://huggingface.co/spaces/Ahmedashrafaa/Face_Recognition
+
+---
+
 ## Features
 
 - **Facial Recognition**  
@@ -27,3 +32,12 @@ This project is an AI-powered facial recognition and analysis system designed fo
 ## Dataset
 
 - 159 unique individuals
+
+---
+
+  ## Performance
+
+- **Model Accuracy:** 93.30%
+- **Total Recognized Individuals:** 159
+
+
